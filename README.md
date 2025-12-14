@@ -51,5 +51,12 @@ The project is designed for **beginners learning arrays in Java** and is suitabl
 
 ---
 
-## 📂 Project Structure
+
+## 📌 Sample Output
+Enter withdrawal amount: 3700
+
+ATM Cash Denomination Breakdown:
+₹2000 x 1
+₹500 x 3
+₹200 x 1
 
